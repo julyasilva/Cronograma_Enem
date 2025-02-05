@@ -1,38 +1,99 @@
 # Cronograma_Enem
 
 
-### **Estrutura do Cronograma**  
-- **Duração:** 3 meses (ajustável conforme seu tempo)  
-- **Estudo diário:** 2 a 4 horas por dia  
-- **Revisão semanal:** Aos domingos, com simulados e redação  
+---
 
-Agora, aqui está um cronograma com as matérias e os temas mais cobrados no ENEM:
+## **📅 Cronograma de Estudos para o ENEM - Detalhado**  
+
+### **📆 Segunda: Ciências Humanas**  
+📖 **História**  
+- Brasil Colônia: Capitanias hereditárias, Escravidão indígena e africana, Economia açucareira  
+- Ditadura Militar (1964-1985): AI-5, Milagre Econômico, Redemocratização  
+- Era Vargas: Revolução de 1930, Estado Novo, Trabalhismo  
+
+📖 **Geografia**  
+- Globalização e seus impactos  
+- Clima e vegetação do Brasil  
+- Questões ambientais (desmatamento, aquecimento global)  
+
+📖 **Filosofia/Sociologia**  
+- Iluminismo: Voltaire, Rousseau, Montesquieu  
+- Karl Marx e o socialismo científico  
+- Cultura, ideologia e alienação  
 
 ---
 
-### **📅 Semana 1: Ciências Humanas**
-**📖 História:** Brasil Colônia, Ditadura Militar, Era Vargas  
-**📖 Geografia:** Questões ambientais, Clima e vegetação do Brasil, Globalização  
-**📖 Filosofia/Sociologia:** Iluminismo, Karl Marx, Cultura e Ideologia  
+### **📆 Terça: Ciências da Natureza**  
+🔬 **Biologia**  
+- Ecologia: Cadeias alimentares, Impactos ambientais  
+- Genética: Leis de Mendel, DNA e RNA  
+- Citologia: Estrutura celular, Organelas  
 
-### **📅 Semana 2: Ciências da Natureza**  
-**🔬 Biologia:** Ecologia, Genética, Citologia  
-**🧪 Química:** Ligações químicas, Funções orgânicas, Estequiometria  
-**⚡ Física:** Cinemática, Eletrodinâmica, Termodinâmica  
+🧪 **Química**  
+- Ligações químicas: Iônica, Covalente, Metálica  
+- Funções orgânicas: Álcoois, Aldeídos, Cetonas, Ácidos carboxílicos  
+- Estequiometria: Cálculo estequiométrico, Reagente limitante  
 
-### **📅 Semana 3: Linguagens e Códigos**  
-**📚 Português:** Interpretação de texto, Figuras de linguagem, Funções da linguagem  
-**🖌️ Artes e Literatura:** Modernismo, Barroco, Vanguardas  
-**🇧🇷 Inglês ou Espanhol:** Compreensão textual  
-
-### **📅 Semana 4: Matemática e Redação**  
-**➗ Matemática:** Razão e proporção, Função do 1° e 2° grau, Estatística  
-**📝 Redação:** Estrutura do texto dissertativo, Coesão e coerência, Análise de redações nota 1000  
+⚡ **Física**  
+- Cinemática: Movimento uniforme e uniformemente variado  
+- Eletrodinâmica: Lei de Ohm, Associação de resistores  
+- Termodinâmica: Princípios da termodinâmica, Energia térmica  
 
 ---
 
-🔁 **Ciclo de Revisão e Simulados**  
-- Todo domingo: faça 1 redação e 20 questões de cada área.  
-- Revise os erros e anote os pontos fracos para reforçar na próxima semana.  
+### **📆 Quarta: Linguagens e Redação**  
+📚 **Português**  
+- Interpretação de texto: Estratégias de leitura, Contexto textual  
+- Figuras de linguagem: Metáfora, Metonímia, Hipérbole  
+- Funções da linguagem: Emotiva, Referencial, Conativa  
 
-💡 Quer que eu adapte para o seu tempo disponível por dia?
+🖌️ **Artes/Literatura**  
+- Modernismo: 1ª, 2ª e 3ª fase, Principais autores  
+- Barroco e Arcadismo: Características e contexto histórico  
+- Vanguardas europeias: Cubismo, Futurismo, Surrealismo  
+
+🇧🇷 **Inglês ou Espanhol**  
+- Leitura e interpretação de textos  
+- Falsos cognatos e conectivos textuais  
+
+📝 **Redação**  
+- Estrutura do texto dissertativo-argumentativo  
+- Estratégias para garantir coesão e coerência  
+- Treino de redação com temas anteriores  
+
+---
+
+### **📆 Quinta: Matemática**  
+➗ **Matemática**  
+- Razão e proporção  
+- Função do 1° e 2° grau  
+- Estatística: Média, Moda, Mediana  
+- Geometria plana: Áreas e perímetros  
+- Probabilidade e análise combinatória  
+
+---
+
+### **📆 Sexta: Revisão e Questões**  
+🔁 **Revisão dos conteúdos da semana**  
+📝 **Resolução de questões do ENEM e anotações dos erros**  
+
+---
+
+### **📆 Sábado: Simulado Enem + Redação**  
+- **09h00 – 11h00:** Simulado com 40 questões (misturando todas as áreas)  
+- **11h00 – 12h00:** Treino de redação  
+
+---
+
+### **📆 Domingo: Revisão e Descanso**  
+- Revisar erros da semana  
+- Descanso ou reforço em alguma matéria difícil  
+
+---
+
+💡 **Dicas Extras:**  
+✅ Use videoaulas para reforçar os conteúdos difíceis.  
+✅ Faça anotações e mapas mentais.  
+✅ Priorize matérias em que sente mais dificuldade.  
+
+
