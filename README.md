@@ -42,25 +42,49 @@
 ---
 
 ### **📆 Quarta: Linguagens e Redação**  
-📚 **Português**  
-- Interpretação de texto: Estratégias de leitura, Contexto textual  
-- Figuras de linguagem: Metáfora, Metonímia, Hipérbole  
-- Funções da linguagem: Emotiva, Referencial, Conativa  
+No ENEM, a prova de **Linguagens, Códigos e suas Tecnologias** avalia a competência em **interpretação de textos, gramática e literatura**. Aqui estão os principais assuntos de **Língua Portuguesa** que costumam cair:  
 
-🖌️ **Artes/Literatura**  
-- Modernismo: 1ª, 2ª e 3ª fase, Principais autores  
-- Barroco e Arcadismo: Características e contexto histórico  
-- Vanguardas europeias: Cubismo, Futurismo, Surrealismo  
+### 📖 **1. Interpretação de Texto**  
+- Compreensão e inferência de ideias  
+- Identificação do tema e da tese  
+- Tipos de textos (narrativo, dissertativo, descritivo, injuntivo, expositivo)  
+- Funções da linguagem (emotiva, referencial, conativa, etc.)  
 
-🇧🇷 **Inglês ou Espanhol**  
-- Leitura e interpretação de textos  
-- Falsos cognatos e conectivos textuais  
+### ✍️ **2. Gêneros Textuais**  
+- Artigos de opinião, crônicas, contos, charges, tirinhas, HQs  
+- Textos publicitários e jornalísticos  
+- Textos científicos e acadêmicos  
 
-📝 **Redação**  
+### 📚 **3. Gramática e Estrutura da Língua**  
+- Concordância verbal e nominal  
+- Regência verbal e nominal  
+- Uso da crase  
+- Colocação pronominal  
+- Pontuação e seu impacto na interpretação  
+
+### 🎭 **4. Figuras de Linguagem e Variação Linguística**  
+- Metáfora, metonímia, hipérbole, ironia, eufemismo, antítese, paradoxo  
+- Diferenças entre norma culta e linguagem popular  
+- Uso de gírias e regionalismos  
+- Preconceito linguístico  
+
+### 📝 **5. Literatura e Movimentos Literários**  
+- Arcadismo, Romantismo, Realismo, Naturalismo, Modernismo  
+- Principais autores e obras  
+
+### 🔍 **6. Intertextualidade e Interdiscursividade**  
+- Relação entre diferentes textos  
+- Citações, paráfrases e paródias  
+
+### 🎨 **7. Semiótica e Linguagem Visual**  
+- Interpretação de imagens, gráficos, charges, memes e infográficos  
+
+### 🔠 **8. Redação** (Muito importante!)  
 - Estrutura do texto dissertativo-argumentativo  
-- Estratégias para garantir coesão e coerência  
-- Treino de redação com temas anteriores  
+- Estratégias argumentativas (citação, dados, exemplos, analogias)  
+- Coesão e coerência  
 
+Se quiser um plano de estudos ou materiais específicos para cada tópico, posso te ajudar! 😉
 ---
 
 ### **📆 Quinta: Matemática**  
