@@ -84,7 +84,6 @@ No ENEM, a prova de **Linguagens, Códigos e suas Tecnologias** avalia a compet�
 - Estratégias argumentativas (citação, dados, exemplos, analogias)  
 - Coesão e coerência  
 
-Se quiser um plano de estudos ou materiais específicos para cada tópico, posso te ajudar! 😉
 ---
 
 ### **📆 Quinta: Matemática**  
