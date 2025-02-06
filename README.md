@@ -88,11 +88,57 @@ No ENEM, a prova de **Linguagens, Códigos e suas Tecnologias** avalia a compet�
 
 ### **📆 Quinta: Matemática**  
 ➗ **Matemática**  
+A prova de **Matemática e suas Tecnologias** no ENEM costuma cobrar conteúdos que envolvem **raciocínio lógico, interpretação de problemas e aplicação prática da matemática**. Com base nas provas antigas, aqui estão os principais assuntos:  
+
+---
+
+### 📊 **1. Proporcionalidade e Regra de Três**  
+- Regra de três simples e composta  
 - Razão e proporção  
-- Função do 1° e 2° grau  
-- Estatística: Média, Moda, Mediana  
-- Geometria plana: Áreas e perímetros  
-- Probabilidade e análise combinatória  
+- Porcentagem (aumento, desconto, juros simples e compostos)  
+- Regra do produto cruzado  
+
+### 📏 **2. Geometria**  
+- **Plana**: áreas de figuras (triângulo, quadrado, círculo, trapézio, etc.)  
+- **Espacial**: volume e área de sólidos geométricos (cilindro, cone, pirâmide, esfera)  
+- Teorema de Pitágoras  
+- Semelhança de triângulos  
+- Ângulos, polígonos e circunferências  
+
+### 📈 **3. Funções e Gráficos**  
+- Função do 1º e 2º grau  
+- Função exponencial e logarítmica  
+- Leitura e interpretação de gráficos e tabelas  
+- Progressões Aritméticas (PA) e Geométricas (PG)  
+
+### 📐 **4. Estatística e Probabilidade**  
+- Média, mediana e moda  
+- Desvio padrão e variância  
+- Probabilidade simples e condicional  
+- Análise combinatória (fatorial, arranjos, permutações e combinações)  
+
+### 📏 **5. Trigonometria**  
+- Seno, cosseno e tangente  
+- Lei dos senos e dos cossenos  
+- Círculo trigonométrico  
+
+### 🔢 **6. Álgebra e Equações**  
+- Equações do 1º e 2º grau  
+- Sistemas de equações  
+- Inequações  
+- Radiciação e potenciação  
+
+### 🔄 **7. Matemática Financeira**  
+- Juros simples e compostos  
+- Taxas de juros e descontos  
+- Regra do montante e capital  
+
+### 🏛 **8. Raciocínio Lógico e Problemas Contextualizados**  
+- Sequências lógicas  
+- Padrões numéricos  
+- Questões do dia a dia (contas de água, luz, compras, financiamentos)  
+
+
 
 ---
 
